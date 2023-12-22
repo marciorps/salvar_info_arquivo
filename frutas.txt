@@ -1,0 +1,11 @@
+banana
+maça
+uva
+laranja
+abacaxi
+
+amarelo
+vermelho
+branco
+preto
+azul
